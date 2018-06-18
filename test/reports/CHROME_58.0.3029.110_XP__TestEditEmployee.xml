@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="_TestEditEmployee"
+    errors="0" failures="0" hostname="" id="" package="_TestEditEmployee" skipped="0"
+    tests="1" time="15.68" timestamp="Tue, 23 May 2017 21:36:38 GMT">
+  
+    <testcase name="New Employee Test" time="15.68" assertions="14">
+
+    
+
+    
+
+    
+
+    
+<system-out>[[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\_TestEditEmployee\New-Employee-Test_ERROR_May-23-2017-113645-GMT-1000-(Hawaiian-Standard.png]]</system-out>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

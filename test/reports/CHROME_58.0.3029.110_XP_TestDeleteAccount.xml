@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestDeleteAccount"
+    errors="0" failures="0" hostname="" id="" package="TestDeleteAccount" skipped="0"
+    tests="1" time="26.76" timestamp="Mon, 12 Jun 2017 19:54:14 GMT">
+  
+    <testcase name="Delete Account Test" time="26.76" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

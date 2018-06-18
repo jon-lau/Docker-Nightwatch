@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestLoginTimeout"
+    errors="0" failures="0" hostname="" id="" package="TestLoginTimeout" skipped="0"
+    tests="1" time="1815" timestamp="Mon, 05 Jun 2017 18:13:04 GMT">
+  
+    <testcase name="Login Timeout Test" time="1815" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

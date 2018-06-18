@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestRequiredFields"
+    errors="0" failures="0" hostname="" id="" package="TestRequiredFields" skipped="0"
+    tests="1" time="6.554" timestamp="Mon, 07 Aug 2017 22:13:25 GMT">
+  
+    <testcase name="Test Required Register Field" classname="TestRequiredFields" time="6.554" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

@@ -1,0 +1,9 @@
+exports.command=function(username,password)
+{
+    this.waitForElementVisible('#Email',2000)
+     .setValue('#Email',username)
+     .waitForElementVisible('#Password',2000)
+     .setValue('#Password',password)
+     .waitForElementVisible('input[type=submit]')
+     .click('input[type=submit]')
+};

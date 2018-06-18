@@ -1,0 +1,72 @@
+This line failed
+[Test Branch Status] Test Suite
+
+ âˆš Element <#alert-modal div div> was visible after 1032 milliseconds.
+
+
+
+
+This line failed
+[Test Create Disciplines] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue> was visible after 1044 milliseconds.
+
+
+
+
+This line failed
+[Test Discipline Status] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue> was visible after 1058 milliseconds.
+
+
+
+
+This line failed
+[Test Employee Status] Test Suite
+
+ âˆš Element <#alert-modal div div> was visible after 1036 milliseconds.
+
+
+
+
+This line failed
+[Test Submit Qualifications] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue> was visible after 1056 milliseconds.
+
+
+
+
+This line failed
+[Test Submit Qualifications] Test Suite
+
+ âˆš Element <div.educations-container.employee-attribute form:nth-child(1) #College> was visible after 5123 milliseconds.
+
+
+
+
+This line failed
+[Test Submit Qualifications] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue> was visible after 1319 milliseconds.
+
+
+
+
+This line failed
+[Test Submit Qualifications] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue> was visible after 1043 milliseconds.
+
+
+
+
+This line failed
+[Test Submit Qualifications] Test Suite
+
+ âˆš Element <#alert-modal button.btn.btn-default.btn-blue.alert-modal-ok> was visible after 1303 milliseconds.
+
+
+
+

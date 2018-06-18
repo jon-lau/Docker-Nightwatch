@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestEmployeeStatus"
+    errors="0" failures="1" hostname="" id="" package="TestEmployeeStatus" skipped="0"
+    tests="1" time="26.68" timestamp="Tue, 18 Jul 2017 01:01:31 GMT">
+  
+    <testcase name="Employee Icon Test" classname="TestEmployeeStatus" time="26.68" assertions="8">
+
+    
+
+    
+
+    
+
+    
+<system-out>[[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestEmployeeStatus\Employee-Icon-Test_ERROR_Jul-17-2017-150151-GMT-1000-(Hawaiian-Standard.png]]</system-out>
+    
+<system-out>[[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestEmployeeStatus\Employee-Icon-Test_ERROR_Jul-17-2017-150151-GMT-1000-(Hawaiian-Standard.png]]</system-out>
+    
+
+      <failure message="Timed out while waiting for element &lt;#txtFEIN&gt; to be present for 5000 milliseconds.">    at Object.Employee Icon Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\TestEmployeeStatus.js:24:15)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

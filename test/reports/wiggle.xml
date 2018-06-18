@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="wiggle"
+    errors="1" failures="0" hostname="" id="" package="wiggle" skipped="0"
+    tests="1" time="0.01600" timestamp="Sat, 24 Jun 2017 00:52:43 GMT">
+  
+    <testcase name="Create Admin User Test" time="0.01600" assertions="0">
+    </testcase>
+      <system-err>
+          Error while running [Wiggle / Create Admin User Test]:
+
+  ReferenceError: TIMES is not defined
+    at Object.Create Admin User Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\wiggle.js:22:22)
+    at Module.call (C:\dev\nightwatch\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\dev\nightwatch\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

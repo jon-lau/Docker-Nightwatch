@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestValidRegisterCompany"
+    errors="0" failures="0" hostname="" id="" package="TestValidRegisterCompany" skipped="0"
+    tests="1" time="10.26" timestamp="Mon, 07 Aug 2017 22:18:37 GMT">
+  
+    <testcase name="Test Valid Register Company" classname="TestValidRegisterCompany" time="10.26" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

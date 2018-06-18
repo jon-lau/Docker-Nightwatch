@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestNewEmployeeCentral"
+    errors="1" failures="0" hostname="" id="" package="TestNewEmployeeCentral" skipped="0"
+    tests="1" time="0.06700" timestamp="Wed, 28 Jun 2017 19:51:11 GMT">
+  
+    <testcase name="New Employee from Central Dashboard" time="0.06700" assertions="0">
+    </testcase>
+      <system-err>
+          Error while running [Test New Employee Central / New Employee from Central Dashboard]:
+
+  TypeError: browser.url(...).waitForElementVisible(...).assert.title(...).waitForElementVisible(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).setValue(...).waitForElementVisible(...).setValue(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).dismiss is not a function
+    at Object.New Employee from Central Dashboard (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestNewEmployeeCentral.js:62:14)
+    at Module.call (C:\dev\nightwatch\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\dev\nightwatch\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+  Error while running [Test New Technical Employee Central / New Technical Employee from Central Dashboard Test]:
+
+  TypeError: browser.url(...).waitForElementVisible(...).assert.title(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).setValue(...).waitForElementVisible(...).setValue(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).waitForElementVisible(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).customClick(...).customClick(...).customClick(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).setValue(...).customClick(...).dismiss is not a function
+    at Object.New Technical Employee from Central Dashboard Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestNewTechnicalEmployeeCentral.js:71:14)
+    at Module.call (C:\dev\nightwatch\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\dev\nightwatch\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

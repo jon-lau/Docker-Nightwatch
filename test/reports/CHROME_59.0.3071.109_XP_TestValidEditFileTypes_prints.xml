@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestValidEditFileTypes_prints"
+    errors="0" failures="0" hostname="" id="" package="TestValidEditFileTypes_prints" skipped="0"
+    tests="1" time="11.19" timestamp="Tue, 27 Jun 2017 01:39:01 GMT">
+  
+    <testcase name="Valid Edit File Type Test" time="11.19" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

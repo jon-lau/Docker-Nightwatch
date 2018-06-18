@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestCreateDisciplineConsultant"
+    errors="0" failures="1" hostname="" id="" package="TestCreateDisciplineConsultant" skipped="0"
+    tests="1" time="65.33" timestamp="Fri, 02 Jun 2017 20:46:05 GMT">
+  
+    <testcase name="Create Discipline Consultant home" time="65.33" assertions="11">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;#RequiredFile&gt; to be visible for 1000 milliseconds.">    at Object.Create Discipline Consultant home (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestCreateDisciplineConsultant.js:26:7)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

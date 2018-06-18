@@ -1,0 +1,15 @@
+
+
+##DOE CSP CICD
+cd "C:\Program Files (x86)\Jenkins\workspace\DOE CSP CICD\ConsultantPortal\NWLocal\CSP Time Reports"
+
+python cspLargeTimes.py --filename "log.txt" --time "1000" --jobPath "C:\Program Files (x86)\Jenkins\jobs\DOE CSP CICD\\"
+
+
+
+
+
+##DOE CSP Nightly
+cd "C:\Program Files (x86)\Jenkins\workspace\DOE CSP CICD\ConsultantPortal\NWLocal\CSP Time Reports"
+
+python cspLargeTimes.py --filename "log.txt" --time "1000" --jobPath "C:\Program Files (x86)\Jenkins\jobs\DOE CSP Nightly\\"

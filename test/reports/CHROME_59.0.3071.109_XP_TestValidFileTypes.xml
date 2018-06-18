@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestValidFileTypes"
+    errors="0" failures="0" hostname="" id="" package="TestValidFileTypes" skipped="0"
+    tests="1" time="9.760" timestamp="Fri, 23 Jun 2017 21:45:39 GMT">
+  
+    <testcase name="Valid File Type Test" time="9.760" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

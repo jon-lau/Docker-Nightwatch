@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestChangeRole"
+    errors="0" failures="1" hostname="" id="" package="TestChangeRole" skipped="0"
+    tests="1" time="24.51" timestamp="Tue, 27 Jun 2017 00:17:23 GMT">
+  
+    <testcase name="Change role test" time="24.51" assertions="14">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;input:last-child&gt; to be present for 1000 milliseconds.">    at Object.Change role test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestChangeRole.js:32:7)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

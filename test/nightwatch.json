@@ -1,0 +1,157 @@
+{
+  "src_folders": [
+    "tests"
+  ],
+  "output_folder": "reports",
+  "custom_commands_path": "./commands",
+  "custom_assertions_path": "",
+  "page_objects_path": "./pages",
+  "globals_path": "nightwatch.globals.js",
+  "disable_colors": true,
+  "selenium": {
+    "start_process": false,
+    "server_path": "C:/dev/nightwatch/node_modules/nightwatch/lib/sel-serv.jar",
+    "log_path": "",
+    "host": "127.0.0.1",
+    "port": 4444,
+    "cli_args": {
+      "webdriver.chrome.driver": "c:/dev/drivers/chromedriver.exe",
+      "webdriver.ie.driver": "c:/dev/drivers/IEDriverServer.exe",
+      "webdriver.firefox.profile": ""
+    }
+  },
+  "test_settings": {
+    "default": {
+      "launch_url": "http://nginx",
+      "selenium_host": "chromedriver",
+      "silent": true,
+      "screenshots": {
+        "enabled": true,
+        "path": "./screen",
+        "on_failure": true,
+        "on_error": true
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "chromeOptions": {
+          "args": [ "window-size=1200,800", "disable-web-security" ]
+        }
+      }
+    },
+    "csp_ff": {
+      "launch_url": "https://csp-dev.revacomm.net/",
+      "globals": {
+        "host": "https://csp-dev.revacomm.net/"
+      },
+      "selenium": {
+        "start_process": false
+      },
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    },
+    "csp_dev_chrome": {
+      "launch_url": "https://csp-dev.revacomm.net/",
+      "globals": {
+        "host": "https://csp-dev.revacomm.net/"
+      },
+      "selenium": {
+        "start_process": false
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "chromeOptions": {
+          "args": [ "start-maximized", "disable-web-security" ]
+        }
+      }
+    },
+    "csp_chrome": {
+      "launch_url": "https://csp-dev.revacomm.net/",
+      "globals": {
+        "host": "https://csp.revacomm.net/"
+      },
+      "selenium": {
+        "start_process": true
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "chromeOptions": {
+          "args": [ "start-maximized", "disable-web-security" ]
+        }
+      }
+    },
+    "firefox": {
+      "launch_url": "http://localhost",
+      "selenium_host": "127.0.0.1",
+      "selenium_port": 4444,
+      "silent": true,
+      "disable_colors": false,
+      "screenshots": {
+        "enabled": false,
+        "path": ""
+      },
+      "desiredCapabilities": {
+        "browserName": "firefox",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    },
+    "chrome": {
+      "launch_url": "http://localhost",
+      "selenium_host": "127.0.0.1",
+      "selenium_port": 4444,
+      "silent": true,
+      "disable_colors": false,
+      "screenshots": {
+        "enabled": false,
+        "path": ""
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    },
+    "ie": {
+      "launch_url": "http://localhost",
+      "selenium_host": "127.0.0.1",
+      "selenium_port": 4444,
+      "silent": true,
+      "disable_colors": false,
+      "screenshots": {
+        "enabled": false,
+        "path": ""
+      },
+      "desiredCapabilities": {
+        "browserName": "internet explorer",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true
+      }
+    },
+    "local": {
+      "launch_url": "https://localhost:44346/",
+      "globals": {
+        "host": "https://localhost:44346/"
+      },
+      "selenium": {
+        "start_process": true
+      },
+      "desiredCapabilities": {
+        "browserName": "chrome",
+        "javascriptEnabled": true,
+        "acceptSslCerts": true,
+        "chromeOptions": {
+          "args": [ "start-maximized", "disable-web-security" ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestValidInviteUser"
+    errors="0" failures="0" hostname="" id="" package="TestValidInviteUser" skipped="0"
+    tests="1" time="12.02" timestamp="Mon, 07 Aug 2017 22:17:41 GMT">
+  
+    <testcase name="Invite User Test" classname="TestValidInviteUser" time="12.02" assertions="15">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

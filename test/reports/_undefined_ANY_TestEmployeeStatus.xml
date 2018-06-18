@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestEmployeeStatus"
+    errors="0" failures="1" hostname="" id="" package="TestEmployeeStatus" skipped="0"
+    tests="1" time="7.925" timestamp="Tue, 18 Jul 2017 00:26:01 GMT">
+  
+    <testcase name="Employee Icon Test" classname="TestEmployeeStatus" time="7.925" assertions="1">  <failure message="Timed out while waiting for element &lt;body&gt; to be present for 5000 milliseconds.">    at Object.Employee Icon Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\TestEmployeeStatus.js:7:15)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+<system-out>[[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestEmployeeStatus\Employee-Icon-Test_ERROR_Jul-17-2017-142609-GMT-1000-(Hawaiian-Standard.png]]</system-out>
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

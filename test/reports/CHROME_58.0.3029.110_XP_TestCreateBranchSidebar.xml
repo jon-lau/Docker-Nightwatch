@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestCreateBranchSidebar"
+    errors="0" failures="1" hostname="" id="" package="TestCreateBranchSidebar" skipped="0"
+    tests="1" time="25.10" timestamp="Sat, 03 Jun 2017 02:17:05 GMT">
+  
+    <testcase name="Create Branch from Sidebar Test" time="25.10" assertions="15">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Testing if element &lt;#expandBranches:first-of-type+ul li:nth-child(2) div.child_menu_item span&gt; contains text: &quot;AAAAAAample branch&quot;.">    at Object.Create Branch from Sidebar Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestCreateBranchSidebar.js:60:21)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)</failure>
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

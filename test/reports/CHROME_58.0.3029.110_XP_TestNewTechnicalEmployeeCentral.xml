@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestNewTechnicalEmployeeCentral"
+    errors="0" failures="0" hostname="" id="" package="TestNewTechnicalEmployeeCentral" skipped="0"
+    tests="1" time="15.99" timestamp="Fri, 02 Jun 2017 20:31:21 GMT">
+  
+    <testcase name="New Technical Employee from Central Dashboard Test" time="15.99" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+<system-out>[[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestNewTechnicalEmployeeCentral\New-Technical-Employee-from-Central-Dashboard-Test_ERROR_Jun-02-2017-103133-GMT-1000-(Hawaiian-Standard.png]][[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestNewTechnicalEmployeeCentral\New-Technical-Employee-from-Central-Dashboard-Test_ERROR_Jun-02-2017-103133-GMT-1000-(Hawaiian-Standard.png]][[ATTACHMENT|C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\screen\TestNewTechnicalEmployeeCentral\New-Technical-Employee-from-Central-Dashboard-Test_ERROR_Jun-02-2017-103134-GMT-1000-(Hawaiian-Standard.png]]</system-out>
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

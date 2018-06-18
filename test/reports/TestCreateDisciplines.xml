@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="1"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestCreateDisciplines"
+    errors="1" failures="0" hostname="" id="" package="TestCreateDisciplines" skipped="0"
+    tests="1" time="0.01600" timestamp="Fri, 30 Jun 2017 21:35:38 GMT">
+  
+    <testcase name="New discipline from Central Dashboard" time="0.01600" assertions="0">
+    </testcase>
+      <system-err>
+          Error while running [Test Create Disciplines / New discipline from Central Dashboard]:
+
+  ReferenceError: _dirname is not defined
+    at Object.New discipline from Central Dashboard (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\dev\TestCreateDisciplines.js:36:21)
+    at Module.call (C:\dev\nightwatch\node_modules\nightwatch\lib\runner\module.js:62:34)
+    at C:\dev\nightwatch\node_modules\nightwatch\lib\runner\testcase.js:70:29
+    at _fulfilled (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:834:54)
+    at self.promiseDispatch.done (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:863:30)
+    at Promise.promise.promiseDispatch (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:796:13)
+    at C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:556:49
+    at runSingle (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:137:13)
+    at flush (C:\dev\nightwatch\node_modules\nightwatch\node_modules\q\q.js:125:13)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+      </system-err>
+  
+  
+  </testsuite>
+</testsuites>

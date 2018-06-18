@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="TestCreateFirmTypes"
+    errors="0" failures="0" hostname="" id="" package="TestCreateFirmTypes" skipped="0"
+    tests="1" time="14.60" timestamp="Thu, 25 May 2017 00:05:46 GMT">
+  
+    <testcase name="Create Firm Type" time="14.60" assertions="16">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+  
+  </testsuite>
+</testsuites>

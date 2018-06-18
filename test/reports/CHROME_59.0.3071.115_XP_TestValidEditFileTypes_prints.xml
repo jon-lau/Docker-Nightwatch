@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="TestValidEditFileTypes_prints"
+    errors="0" failures="1" hostname="" id="" package="TestValidEditFileTypes_prints" skipped="0"
+    tests="1" time="16.55" timestamp="Thu, 27 Jul 2017 00:47:53 GMT">
+  
+    <testcase name="Valid Edit File Type Test" classname="TestValidEditFileTypes_prints" time="16.55" assertions="8">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+      <failure message="Timed out while waiting for element &lt;form input[type=submit][value='Log in']&gt; to be present for 1000 milliseconds.">    at Object.Valid Edit File Type Test (C:\Users\jlau\FDB-Consultant-Portal\ConsultantPortal\NWLocal\tests\TestValidEditFileTypes_prints.js:18:7)
+    at _combinedTickCallback (internal/process/next_tick.js:73:7)
+    at process._tickCallback (internal/process/next_tick.js:104:9)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
