@@ -43,6 +43,9 @@
         "chromeOptions": {
           "args": [ "window-size=1200,800", "disable-web-security" ]
         }
+      },
+      "selenium": {
+        "start_process": false
       }
     },
     "csp_ff": {

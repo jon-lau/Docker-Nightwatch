@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="TestRegisterPage"
+    errors="0" failures="0" hostname="" id="" package="TestRegisterPage" skipped="0"
+    tests="7" time="25.83" timestamp="Tue, 19 Jun 2018 21:13:59 GMT">
+  
+    <testcase name="Valid Phone Number Test" classname="TestRegisterPage" time="4.749" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Valid Password Test" classname="TestRegisterPage" time="1.084" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Valid Email Address Test" classname="TestRegisterPage" time="0.9940" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Valid Confirm Password" classname="TestRegisterPage" time="1.041" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Required Register Fields" classname="TestRegisterPage" time="1.241" assertions="10">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Valid Match Confirm Password Test" classname="TestRegisterPage" time="1.359" assertions="3">
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Test Valid Register Company" classname="TestRegisterPage" time="15.36" assertions="20">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
