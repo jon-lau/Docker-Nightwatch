@@ -1,9 +1,5 @@
 version: '2.2'
 services:
-  nginx:
-    image: nginx:alpine
-    volumes:
-      - ./app:/usr/share/nginx/html
   chromedriver:
     image: blueimp/chromedriver
     environment:
@@ -16,7 +12,6 @@ services:
     init: true
     depends_on:
       - chromedriver
-      - nginx
     environment:
       - WAIT_FOR_HOSTS=nginx:80 chromedriver:4444 chromedriver:6060
     volumes:

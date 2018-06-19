@@ -22,7 +22,7 @@
   },
   "test_settings": {
     "default": {
-      "launch_url": "http://nginx",
+      "launch_url": "https://csp-dev.revacomm.net/",
       "selenium_host": "chromedriver",
       "silent": true,
       "screenshots": {
@@ -30,6 +30,11 @@
         "path": "./screen",
         "on_failure": true,
         "on_error": true
+      },
+	  "videos": {
+        "enabled": true,
+        "delete_on_success": false,
+        "path": "videos"
       },
       "desiredCapabilities": {
         "browserName": "chrome",

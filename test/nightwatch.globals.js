@@ -1,4 +1,7 @@
-﻿module.exports = {
+﻿'use strict'
+
+
+module.exports = {
 
     // Abort all on test fail
     abortOnAssertionFailure: true,
@@ -24,6 +27,13 @@
     afterEach: (browser, next) => next(),
 
     // To customize output report
-    reporter: (results, next) => next()
+    reporter: (results, next) => next(),
+	
+	  beforeEach: function (browser, done) {
+    require('nightwatch-video-recorder').start(browser, done)
+  },
+  afterEach: function (browser, done) {
+    require('nightwatch-video-recorder').stop(browser, done)
+  }
 
 };
