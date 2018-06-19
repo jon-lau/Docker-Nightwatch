@@ -27,13 +27,6 @@ module.exports = {
     afterEach: (browser, next) => next(),
 
     // To customize output report
-    reporter: (results, next) => next(),
-	
-	  beforeEach: function (browser, done) {
-    require('nightwatch-video-recorder').start(browser, done)
-  },
-  afterEach: function (browser, done) {
-    require('nightwatch-video-recorder').stop(browser, done)
-  }
+    reporter: (results, next) => next()
 
 };

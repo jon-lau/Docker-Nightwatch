@@ -5,9 +5,9 @@
 
   <testsuite name="TestLoginModal"
     errors="0" failures="0" hostname="" id="" package="TestLoginModal" skipped="0"
-    tests="4" time="35.69" timestamp="Tue, 19 Jun 2018 00:14:28 GMT">
+    tests="4" time="28.66" timestamp="Tue, 19 Jun 2018 00:31:32 GMT">
   
-    <testcase name="Login Incorrect Password Test" classname="TestLoginModal" time="13.98" assertions="7">
+    <testcase name="Login Incorrect Password Test" classname="TestLoginModal" time="10.87" assertions="7">
 
     
 
@@ -24,7 +24,7 @@
     
     </testcase>
   
-    <testcase name="Test Valid Login Email" classname="TestLoginModal" time="7.672" assertions="7">
+    <testcase name="Test Valid Login Email" classname="TestLoginModal" time="6.617" assertions="7">
 
     
 
@@ -41,7 +41,7 @@
     
     </testcase>
   
-    <testcase name="Valid Email Address Forgot Password Test" classname="TestLoginModal" time="3.739" assertions="8">
+    <testcase name="Valid Email Address Forgot Password Test" classname="TestLoginModal" time="2.276" assertions="8">
 
     
 
@@ -60,7 +60,7 @@
     
     </testcase>
   
-    <testcase name="Login as admin@revacomm.com" classname="TestLoginModal" time="10.30" assertions="7">
+    <testcase name="Login as admin@revacomm.com" classname="TestLoginModal" time="8.897" assertions="7">
 
     
 
