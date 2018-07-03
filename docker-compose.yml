@@ -1,14 +1,14 @@
 version: '2.2'
 services:
   chromedriver:
-    image: blueimp/chromedriver
+    image: jonlau/chromedriver
     environment:
       - VNC_ENABLED=true
       - EXPOSE_X11=true
     ports:
       - 5900:5900
   nightwatch:
-    image: blueimp/nightwatch:0.9
+    image: blueimp/nightwatch
     init: true
     depends_on:
       - chromedriver
