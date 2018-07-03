@@ -2,6 +2,7 @@ FROM alpine:3.7
 
 RUN apk --no-cache add \
   # Install NodeJS:
+  tini  \
     nodejs \
   && npm install -g \
   # Install Nightwatch.js:
